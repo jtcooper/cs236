@@ -1,0 +1,12 @@
+(COMMENT,"#",1)
+(COMMENT,"# |",2)
+(UNDEFINED,"$",3)
+(COMMENT,"#|2340|fr|
+$#|2340|fr|#",3)
+(COMMENT,"#| something
+double |
+triple |#",5)
+(COMMENT,"#|'Not a
+string'|#",8)
+(COMMENT,"#shouldn't break",10)
+(EOF,"",10)

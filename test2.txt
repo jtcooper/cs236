@@ -1,0 +1,10 @@
+#
+# | 
+$#|2340|fr|
+$#|2340|fr|#
+#| something
+double |
+triple |#
+#|'Not a 
+string'|#
+#shouldn't break

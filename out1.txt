@@ -1,0 +1,17 @@
+(STRING,"'Queries''Schemes'",1)
+(COMMA,",",1)
+(STRING,"'multi
+line'",2)
+(COMMA,",",3)
+(STRING,"' '",3)
+(UNDEFINED,"&",4)
+(COLON,":",4)
+(ID,"Queries2",4)
+(COMMA,",",4)
+(SCHEMES,"Schemes",5)
+(COLON,":",5)
+(QUERIES,"Queries",6)
+(UNDEFINED,";",6)
+(UNDEFINED,"'break",7)
+(EOF,"",7)
+Total Tokens = 15
